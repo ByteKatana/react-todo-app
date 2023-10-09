@@ -4,7 +4,7 @@
 
 
 
-### 🧱 Build with
+### 🧱 Built with
 * React 18
 * Express.js
 * Material UI
