@@ -1,6 +1,6 @@
 # React To Do App
 ![License Badge](https://img.shields.io/github/license/bytekatana/react-todo-app)
-<p style="text-align: center;">A To Do app build with React 18 & Express.js</p>
+<p style="text-align: center;">A To Do app built with React 18 & Express.js</p>
 
 
 
